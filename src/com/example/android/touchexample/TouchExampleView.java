@@ -23,8 +23,6 @@ import android.view.MotionEvent;
 import android.view.ScaleGestureDetector;
 import android.view.View;
 
-import com.android.touchexample.R;
-
 public class TouchExampleView extends View {
     private static final int INVALID_POINTER_ID = -1;
     
